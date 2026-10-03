@@ -3,6 +3,8 @@
 Your Claude usage in the Claude Code prompt footer, plus the number I
 actually wanted: how far ahead of or behind an even pace you are.
 
+![usage-line in a real Claude Code session, bottom right](screenshots/real.png)
+
 ![usage-line in four states](screenshots/usage-line.png)
 
 A raw "42% of your 5-hour limit" doesn't tell you much on its own. 42% with
