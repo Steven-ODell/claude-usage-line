@@ -1,0 +1,8 @@
+{
+  "name": "usage-line",
+  "version": "0.2.0",
+  "description": "Claude usage (5-hour, 7-day, context) in the prompt footer, with how far ahead of or behind an even pace you are",
+  "author": { "name": "Steven ODell" },
+  "homepage": "https://github.com/Steven-ODell/claude-usage-line",
+  "types": "./types/index.d.ts"
+}
